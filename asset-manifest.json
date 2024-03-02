@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/github.io/fitness-tracker-webpage/static/css/main.c4cfcc74.css",
-    "main.js": "/github.io/fitness-tracker-webpage/static/js/main.d59235b2.js",
-    "static/js/453.c232363a.chunk.js": "/github.io/fitness-tracker-webpage/static/js/453.c232363a.chunk.js",
-    "index.html": "/github.io/fitness-tracker-webpage/index.html",
-    "main.c4cfcc74.css.map": "/github.io/fitness-tracker-webpage/static/css/main.c4cfcc74.css.map",
-    "main.d59235b2.js.map": "/github.io/fitness-tracker-webpage/static/js/main.d59235b2.js.map",
-    "453.c232363a.chunk.js.map": "/github.io/fitness-tracker-webpage/static/js/453.c232363a.chunk.js.map"
+    "main.css": "/fitness-tracker-webpage/static/css/main.c4cfcc74.css",
+    "main.js": "/fitness-tracker-webpage/static/js/main.170ab5dd.js",
+    "static/js/453.c232363a.chunk.js": "/fitness-tracker-webpage/static/js/453.c232363a.chunk.js",
+    "index.html": "/fitness-tracker-webpage/index.html",
+    "main.c4cfcc74.css.map": "/fitness-tracker-webpage/static/css/main.c4cfcc74.css.map",
+    "main.170ab5dd.js.map": "/fitness-tracker-webpage/static/js/main.170ab5dd.js.map",
+    "453.c232363a.chunk.js.map": "/fitness-tracker-webpage/static/js/453.c232363a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4cfcc74.css",
-    "static/js/main.d59235b2.js"
+    "static/js/main.170ab5dd.js"
   ]
 }
